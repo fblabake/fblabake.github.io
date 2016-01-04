@@ -2,7 +2,7 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
-production_url: http://fbla.github.io
+production_url: http://fblabake.github.io
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
@@ -12,41 +12,13 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ACFBLA
+title : Red River Bakery
 tagline: The Homepage for all things Adams Central FBLA
 author :
   name : Hundter Biede
   email : hundter.biede@adams-central.org
-  github : fbla
-  twitter : hbiede
+  github : fblabake
   
-members : 160
-# Officers
-#
-officers :
-    advisor : Mr. Shawn Mulligan
-    president : Hundter Biede
-    vp : Eliza Donley
-    secretary : Grady Kershner
-    treasurer : Ema Schutte
-    reporter : Emily Vonderfecht
-    historian : Sam Cass
-    description :
-        advisor : Mr. Mulligan serves as our FBLA advisor, is an acting member of the State FBLA Board of Directors, and is the Head Coach for the Patriot Football team.
-        president : Hundter serves as our Chapter President.  He participates in Football, Golf, Speech, among other activities.
-        vp : Eliza serves as our Chapter Vice President.  She participates in Band, FFA, and Choir.
-        secretary : Grady serves as our Chapter Secretary.  He patricipates in Football, Track, and SkillsUSA, among other activities.
-        treasurer : Ema serves as our Chapter Treasurer.  She patricipates in Softball and Band.
-        reporter : Emily serves as our Chapter Reporter.  She patricipates in SkillsUSA, Choir, Band, among other activities.
-        historian : Sam serves as our Chapter Historian.  He patricipates in Cross Country, Band, Track, among other activities.
-    twitterHandle :
-        president : HBiede
-        vp : e_donley98
-        secretary : grady_kersh1503
-        treasurer : EmaSchutte12
-        reporter : EmilyVonderfech
-        historian : SamCass_
-
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -112,7 +84,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-40004318-4'
+        tracking_id : 'UA-40004318-7'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
