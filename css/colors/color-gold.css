@@ -21,7 +21,12 @@
 .sub-text a::before{
 	border: 1px solid #8D1F00;
 }
-.redify,
+logo-border{
+	border: 2px solid #000;
+}
+.redify{
+	background:#8D1F00 !important;
+}
 .about-bottom-right,
 .work-bottom,
 .project-link-to-page1:hover,
