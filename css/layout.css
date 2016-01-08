@@ -2608,6 +2608,7 @@ textarea{
 }
 #sync2 .item{
 	width:calc(100% - 20px);
+	background-color: #f2f2f2;
 	margin-left:10px;
 	margin-right:10px;
     box-sizing: border-box;
@@ -2675,7 +2676,7 @@ textarea{
 	margin-left:103px;
 	text-align:left;
 	margin-top:12px;
-	color: #EEE;
+	color: #f2f2f2;
 }
 #sync2 .item p{
     font-family: 'TisaPro-Ita';
@@ -2684,7 +2685,7 @@ textarea{
 	text-align:left;
 	margin-top:2px;
 	font-size:12px;
-	color:#EEE;
+	color:#f2f2f2;
 }
 #sync2 .item:hover {
 	opacity:1;
