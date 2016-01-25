@@ -900,7 +900,6 @@ ul.slimmenu.collapsed li > ul {
 
 .team-box{
 	position: relative; 
-	overflow: hidden;
 	margin: 0 auto;
 	width: 100%;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
@@ -3113,6 +3112,9 @@ textarea{
  
 /* #Custom
 ================================================== */
+.no-overflow {
+	overflow: hidden;
+}
 .no-link-change a,
 .no-link-change a:visited{
 	color: #646464;
