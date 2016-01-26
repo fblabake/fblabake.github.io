@@ -27,7 +27,6 @@ span.text-content {
   right: 0;
   width: 100%;
   height: 100%;
-  padding-bottom: 1000px;
   opacity: 0;
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
@@ -37,4 +36,9 @@ span.text-content {
 
 div.team-box a:hover span.text-content {
   opacity: 1;
+}
+
+@media only screen and (min-width: 748px) {
+span.text-content {
+	padding-bottom: 1000px;
 }

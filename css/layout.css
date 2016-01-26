@@ -3224,11 +3224,7 @@ dd {
  
 /* #Media Queries
 ================================================== */
-
 @media only screen and (max-width: 800px) {
-
-
-
 .blog-text-wrap img{
 	float:none;
 	margin:0 auto;
