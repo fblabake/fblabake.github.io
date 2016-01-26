@@ -3223,7 +3223,7 @@ dd {
  
 /* #Media Queries
 ================================================== */
-@media only screen and (min-width: 678px) {
+@media only screen and (min-width: 694px) {
 .work-bottom .link-bottom-work a::before,
 .work-bottom .link-bottom-work a::after  {
 	border: 1px solid #fff;
