@@ -219,7 +219,7 @@ body {
         font-size: 22px
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     body {
         background: #292929 url("http://fbla.github.io/svg/bg.svg") repeat center center/70px 70px !important
     }
@@ -230,7 +230,7 @@ body {
     height: 100%;
     padding: 1em
 }
-@media (min-width: 768px) and (max-width: 1025px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .main {
         *zoom: 1;
         display: -webkit-box;
@@ -492,7 +492,7 @@ body {
         display: none
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .header-title {
         color: #fff !important
     }
@@ -509,7 +509,7 @@ body {
 .header-btn.is-open .btn-bg {
     display: none
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .header-btn {
         color: #fff !important
     }
@@ -584,7 +584,7 @@ body {
 ;
     background-color: transparent;
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .loader-bg {
         -webkit-transform: scaleX(30) scaleY(30) !important;
         -ms-transform: scaleX(30) scaleY(30) !important;
@@ -608,7 +608,7 @@ body {
     -ms-transform: translateY(0);
     transform: translateY(0)
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     #logo-fill-1 {
         fill: #ccc !important
     }
@@ -629,7 +629,7 @@ body {
     -ms-transform: scaleY(1);
     transform: scaleY(1)
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     #logo-fill-2 {
         fill: #292929 !important
     }
@@ -907,7 +907,7 @@ body {
         padding: 2em
     }
 }
-@media (min-width: 768px) and (max-width: 1025px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .project {
         top: auto;
         right: auto;
@@ -979,7 +979,7 @@ body {
         overflow: hidden
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .project-mask,
     .project-mask .left,
     .project-overlay,
@@ -1094,7 +1094,7 @@ body {
         top: 100%
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .project-content .btn {
         color: #fff !important
     }
@@ -1359,7 +1359,7 @@ body {
         font-size: 4.5em
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .project-title {
         color: #fff !important
     }
@@ -1395,7 +1395,7 @@ body {
         margin: 0 auto 3em
     }
 }
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
     .project-text {
         color: #fff !important
     }
@@ -2126,6 +2126,13 @@ body {
 .twitter-logo-link {
      font-family: 'FontAwesome';
 }
+
+@media only screen and (max-width:1024px){
+    .twitter-logo-link {
+         visibility: hidden;
+    }
+}
+
 @media (min-width: 1025px) {
     .contact-btn {
         position: fixed;
