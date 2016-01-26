@@ -429,8 +429,9 @@ body {
     .header,
     .header-title,
     .header-btn {
-        position: absolute
-    }
+        position: relative;
+        float: right;
+}
 }
 .header {
     z-index: 100;
