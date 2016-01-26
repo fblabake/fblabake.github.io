@@ -1527,7 +1527,6 @@ ul.slimmenu.collapsed li > ul {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	border: 1px solid #fff;
 	content: '';
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
 	-moz-transition: -moz-transform 0.3s, opacity 0.3s;
@@ -3224,6 +3223,12 @@ dd {
  
 /* #Media Queries
 ================================================== */
+@media only screen and (min-width: 678px) {
+.work-bottom .link-bottom-work a::before,
+.work-bottom .link-bottom-work a::after  {
+	border: 1px solid #fff;
+}
+
 @media only screen and (max-width: 800px) {
 .blog-text-wrap img{
 	float:none;
