@@ -499,7 +499,8 @@ body {
 }
 .header-btn {
     right: 0;
-    color: rgba(255, 255, 255, 0.75)
+    color: rgba(255, 255, 255, 1);
+    text-shadow: 2px 2px 1px #000;
 }
 .header-btn.is-open {
     border-color: transparent;
