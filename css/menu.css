@@ -2132,6 +2132,10 @@ body {
     .twitter-logo-link {
          visibility: hidden;
     }
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media (min-width: 1025px) {
