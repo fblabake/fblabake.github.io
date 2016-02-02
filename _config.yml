@@ -13,7 +13,8 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Red River Bakery
-tagline: The Homepage for all things Adams Central FBLA
+tagline: Full of Tradition in Gluten-Free Foods
+keywords: FBLA, Adams, Central, Bakery
 author :
   name : Hundter Biede
   email : hundter.biede@adams-central.org
