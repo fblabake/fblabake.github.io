@@ -584,6 +584,7 @@ body {
     transition: all 1s .1s cubic-bezier(0.485, 0.605, 0, 1)
 ;
     background-color: transparent;
+    height: 10%;
 }
 @media (max-width: 1024px) {
     .loader-bg {
