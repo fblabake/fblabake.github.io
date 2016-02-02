@@ -20,5 +20,6 @@
 
     .slim-only {
         visibility: hidden;
+        width: 0px;
     }
 }
