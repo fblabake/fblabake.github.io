@@ -735,7 +735,7 @@ ul.slimmenu.collapsed li > ul {
 	transform: scale(1.2);
 }
 
-.about-top h5{
+.about-top h3,h4,h5{
 	text-align:left;
 	padding-bottom:20px;
 }
