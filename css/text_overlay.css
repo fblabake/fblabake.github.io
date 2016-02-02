@@ -19,7 +19,7 @@ span.text-content span {
 span.text-content {
   background: rgba(0,0,0,0.5);
   color: white;
-  cursor: pointer;
+  cursor: default;
   display: table;
   left: 0;
   position: absolute;
