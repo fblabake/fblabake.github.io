@@ -4,6 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 production_url: http://fblabake.github.io
 
+twitter_url: redriverbakery
+phone_number: +1-402-555-1234
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
