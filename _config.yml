@@ -4,6 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 production_url: http://fblabake.github.io
 
+twitter_url: redriverbakery
+phone_number: +1-402-555-1234
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
@@ -13,7 +16,8 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Red River Bakery
-tagline: The Homepage for all things Adams Central FBLA
+tagline: Full of Tradition in Gluten-Free Foods
+keywords: FBLA, Adams, Central, Bakery
 author :
   name : Hundter Biede
   email : hundter.biede@adams-central.org
