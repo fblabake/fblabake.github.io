@@ -7,9 +7,9 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #8D1F00;
+    background-color: rgba(146, 32, 0, 0.95);
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.48);
     padding: 12px 16px;
     border: 1px #000;
 }
