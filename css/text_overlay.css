@@ -38,7 +38,20 @@ div.team-box a:hover span.text-content {
   opacity: 1;
 }
 
-@media only screen and (min-width: 748px) {
+@media only screen and (min-width: 691px) {
 span.text-content {
 	padding-bottom: 1000px;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+span.text-content {
+	height: 373px;
+}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px){
+  span.text-content {
+	height: 523px;
+}
 }
